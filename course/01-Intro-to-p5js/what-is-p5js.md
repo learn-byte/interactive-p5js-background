@@ -10,4 +10,4 @@ This tutorial assumes basic prior experience with a terminal and a text editor b
 
 p5.js is a javascript project for developing programmatic visual designs.  It is a spin off of the popular Processing libraries based on Java and Javascript.  With p5.js it is simple to create imagery with code, and even include interactive elements to the imagery.
 
-To check out some examples of what p5.js can do, see their <a rel="noopener noreferrer" href="https://p5js.org/examples/" target="_blank">examples page here</a>.
+To check out some examples of what p5.js can do, see their [examples page here](https://p5js.org/examples/).
