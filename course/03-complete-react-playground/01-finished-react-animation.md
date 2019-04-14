@@ -16,6 +16,10 @@ const styles = {
 
 Once we add our `styles` to the top level `div` in `App.js`, the content should all be centered horizontally and vertically.
 
+#### Here is what our app looks like! It's ready for adding new animiation experiments.
+
+![final-app](https://raw.githubusercontent.com/learn-byte/interactive-p5js-background/master/assets/images/final-app.png)
+
 
 #### Here is our final code for `App.js`:
 
@@ -54,7 +58,3 @@ class App extends Component {
 
 export default App;
 ```
-
-#### And here is what our app looks like! It's ready for adding new animiation experiments.
-
-![final-app](https://raw.githubusercontent.com/learn-byte/interactive-p5js-background/master/assets/images/final-app.png)
