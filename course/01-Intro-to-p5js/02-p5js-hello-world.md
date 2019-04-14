@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  var randomGrayFill = Math.floor(Math.random() * 256)
+  const randomGrayFill = Math.floor(Math.random() * 256)
   fill(randomGrayFill)
   ellipse(mouseX, mouseY, 25, 25);
 }

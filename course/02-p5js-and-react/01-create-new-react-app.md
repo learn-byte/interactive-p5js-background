@@ -1,6 +1,6 @@
-# Putting our sketch into a React app
+# Creating a React app for our sketch
 
-#### It's all nice and dandy to have a p5js sketch hosted on p5js.org but what if we want the sketch in our own react app so we can add more dynamic content later?
+#### It's nice to have a p5js sketch hosted on p5js.org but what if we want the sketch in our own react app so we can use our own source control?
 
 Let's create a new react app as a playground for future sketches!
 
