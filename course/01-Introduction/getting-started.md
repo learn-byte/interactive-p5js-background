@@ -4,4 +4,4 @@ This tutorial will show you how to build an interactive background like the one 
 
 See it in action here: https://editor.p5js.org/compcuter/embed/aaU0ARsoB
 
-To get started, open up a text editor.
+To get started, open up a text editor. Then go to p5js.org.
