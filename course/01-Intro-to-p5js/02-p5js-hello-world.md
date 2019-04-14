@@ -1,6 +1,6 @@
-#Simple p5.js sketch
+# Simple p5.js sketch
 
-How do you write a hello world for a visual programming langauge?  Circles seem to be a favorite basic shape to start drawing with!
+### How do you write a hello world for a visual programming langauge?  Draw circles!
 
 Every p5.js sketch needs two basic functions to do anything interesting. A `setup()` function and a `draw()` function.  
 
