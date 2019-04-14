@@ -4,11 +4,11 @@
 
 Every p5.js sketch needs two basic functions to do anything interesting. A `setup()` function and a `draw()` function.  
 
-We start with a `setup()` function that creates our drawing space for us.  We will create our canvas as 750px wide by 500 px tall.
+We start with a `setup()` function that creates our drawing space for us.  We will create our canvas as 800px wide by 500 px tall.
 
 ```
 function setup() {
-  createCanvas(750, 500);
+  createCanvas(800, 500);
 }
 
 function draw() {
@@ -21,7 +21,7 @@ Then we create a `draw()` function that will create random shades of gray circle
 
 The first line of the function assigns a randomGrayFill color, then we fill all shapes with that random color, and finally we draw an ellipse centered around our current mouse coordinates and give it a size of 25px wide. 
 
-Hello, visual world!
+#### Hello, visual world!
 
 ![gray-circles](https://raw.githubusercontent.com/learn-byte/interactive-p5js-background/master/assets/images/gray-circles.png)
 
