@@ -2,4 +2,4 @@
 
 This tutorial will show you how to build an interactive background like the one shown here.
 
-<iframe src="https://editor.p5js.org/compcuter/embed/aaU0ARsoB"></iframe>
+See it in action here: https://editor.p5js.org/compcuter/embed/aaU0ARsoB
