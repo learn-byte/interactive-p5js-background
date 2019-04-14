@@ -1,6 +1,6 @@
 # How to build an Interactive Background with p5.js and create-react-app
 
-#### This tutorial will demonstrate how to build an interactive background like the one from the home page of learn-byte.com.
+#### This tutorial will demonstrate how to build an interactive background similar to the one from the home page of learn-byte.com.
 
 ![interactive-background-image](https://raw.githubusercontent.com/learn-byte/interactive-p5js-background/master/assets/images/interactive-bg.png)
 
